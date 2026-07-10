@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Frezanz
 
-<!--
-**Frezanz/Frezanz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "I build things that don't exist yet."
 
-Here are some ideas to get you started:
+```text
+╭────────────────────────────────────────────╮
+│ Name     : Frezanz                         │
+│ Country  : India 🇮🇳                        │
+│ Focus    : AI • Apps • Languages           │
+│ Mission  : Build useful tools              │
+╰────────────────────────────────────────────╯
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- 📖 Chakma Dictionary & Grammar App
+- 🔤 Chakma Font Tools
+- 🧠 Memory Training App
+
+## 🌱 Currently Learning
+- Python
+- C++
+- Java
+- Git & GitHub
+- App Development
+
+## 🎯 Interests
+- Artificial Intelligence
+- Programming
+- Philosophy
+- UI Design
+- Creative Technology
+
+## 📊 GitHub Stats
+
+Coming Soon...
+
+---
+
+> **"Build. Learn. Repeat."**
