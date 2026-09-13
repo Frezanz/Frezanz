@@ -1,39 +1,34 @@
-# Hi 👋 I'm Frezanz
+# Frezanz
 
-> "I build things that don't exist yet."
+**I build things, study how they work, and keep pushing toward the layer underneath.**
 
 ```text
-╭────────────────────────────────────────────╮
-│ Name     : Frezanz                         │
-│ Country  : India 🇮🇳                        │
-│ Focus    : AI • Apps • Languages           │
-│ Mission  : Build useful tools              │
-╰────────────────────────────────────────────╯
+AI · Software · Systems · Experiments
 ```
 
-## 🚀 Current Projects
-- 📖 Chakma Dictionary & Grammar App
-- 🔤 Chakma Font Tools
-- 🧠 Memory Training App
+## What I'm building
 
-## 🌱 Currently Learning
-- Python
-- C++
-- Java
-- Git & GitHub
-- App Development
+- **AI systems** — learning the fundamentals behind neural networks, training, attention, and language models by implementing them.
+- **Software** — web apps, developer tools, automation, and small systems that are actually useful.
+- **Workshop** — a personal environment for connecting knowledge, experiments, projects, and tools.
+- **Independent projects** — ideas get tested by building, not just talking about them.
 
-## 🎯 Interests
-- Artificial Intelligence
-- Programming
-- Philosophy
-- UI Design
-- Creative Technology
+## Current stack
 
-## 📊 GitHub Stats
+`Python` `JavaScript` `TypeScript` `C++` `Linux` `Git` `SQL` `APIs` `AI/ML`
 
-Coming Soon...
+## How I work
+
+**Understand → Build → Break → Fix → Repeat.**
+
+I prefer first principles over memorising abstractions, and real projects over passive tutorials.
+
+## Around here
+
+Some repositories are experiments. Some become products. Some are just me figuring something out.
+
+That's the point.
 
 ---
 
-> **"Build. Learn. Repeat."** <
+<sub>Frezanz · building quietly, learning deeply.</sub>
