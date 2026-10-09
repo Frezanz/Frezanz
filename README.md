@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="frezanz's GitHub profile" src="dark_mode.svg" />
+</picture>
+
 <div align="center">
 
 # F R E Z A N Z
@@ -40,7 +46,7 @@ A personal project for keeping projects, ideas, knowledge and experiments in one
 
 Not a finished product. More like a place to keep building.
 
-**→** [github.com/Frezanz/workshop](https://github.com/Frezanz/workshop)
+**↗ [github.com/Frezanz/workshop](https://github.com/Frezanz/workshop)**
 
 ---
 
@@ -97,32 +103,29 @@ Interfaces, visual experiments, photography, video, unusual websites and things 
 </tr>
 </table>
 
-[See all repositories →](https://github.com/Frezanz?tab=repositories)
+[See all repositories ↗](https://github.com/Frezanz?tab=repositories)
 
 ---
 
 ## A FEW DIRECTIONS
 
 ```text
-             ┌─────────────┐
-             │    IDEAS    │
-             └──────┬──────┘
-                    │
-       ┌────────────┼────────────┐
-       ↓            ↓            ↓
-    SOFTWARE       AI         CREATIVE
-       │            │            │
-       └────────────┼────────────┘
-                    ↓
-                 PROJECTS
-                    │
-                    ↓
-                EXPERIMENTS
-                    │
-                    ↓
-                 SOMETHING
-                    │
-                    └──→ maybe useful
+             ────────────
+              IDEAS
+             ────────────
+                   │
+      ┌────────────┼────────────┐
+      │            │            │
+  SOFTWARE       AI        CREATIVE
+      │            │            │
+      └────────────┼────────────┘
+                   │
+                PROJECTS
+                   │
+              EXPERIMENTS
+                   │
+               SOMETHING
+              maybe useful
 ```
 
 No fixed category. No fixed endpoint.
@@ -142,7 +145,7 @@ No fixed category. No fixed endpoint.
 
 <div align="center">
 
-### make something → see what happens
+### make something ↗ see what happens
 
 <sub>Frezanz / GitHub</sub>
 
