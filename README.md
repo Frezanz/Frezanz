@@ -19,9 +19,13 @@
 
 ---
 
-##✦what a nightmare bitch?
-.**
+##
 
+✦what a nightmare bitch!
+........................
+The flame of hatred, fueled by eternal love, will never make your vision brighter than the greyscale of your traumatic past.
+.**
+.........................
 ---
 
 ## CURRENTLY
