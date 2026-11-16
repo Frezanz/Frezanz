@@ -19,13 +19,8 @@
 
 ---
 
-## ✦
-
-I make things that catch my attention.
-
-Sometimes that means software. Sometimes it's an interface, an experiment, a language project, or a weird idea that needed to exist outside my head.
-
-I'm interested in **AI, software, systems, design, language, philosophy, psychology, and the space where they overlap.**
+##✦what a nightmare bitch?
+.**
 
 ---
 
