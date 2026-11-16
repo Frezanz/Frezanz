@@ -16,14 +16,8 @@
 [![Projects](https://img.shields.io/badge/Projects-16+-111111?style=flat-square)](https://github.com/Frezanz?tab=repositories)
 
 </div>
-
----
-
-✦what a nightmare bitch!
-........
-........
+✦
 The flame of hatred, fueled by eternal love, will never make your vision brighter than the greyscale of your traumatic past.
----
 
 ## CURRENTLY
 
